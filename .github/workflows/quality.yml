@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      PYTHONPATH: .
+      PYTHONPATH: ./src
 
     steps:
       - name: Descargar código
@@ -26,4 +26,4 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Ejecutar pruebas
-        run: pytest
+        run: python -m pytest
