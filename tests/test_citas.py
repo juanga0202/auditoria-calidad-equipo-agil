@@ -1,4 +1,4 @@
-from src.citas import validar_cita
+from citas import validar_cita
 
 
 def test_hora_valida():
