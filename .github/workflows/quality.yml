@@ -10,6 +10,9 @@ jobs:
   tests:
     runs-on: ubuntu-latest
 
+    env:
+      PYTHONPATH: .
+
     steps:
       - name: Descargar código
         uses: actions/checkout@v4
