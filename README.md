@@ -26,6 +26,14 @@ pip install -r requirements.txt
 pytest
 ```
 
+## XP — Estándares de código
+
+1. Usar nombres descriptivos para funciones, variables y pruebas.
+2. Mantener una indentación de 4 espacios y seguir convenciones de estilo consistentes.
+3. Aplicar responsabilidad única: cada función debe realizar una tarea concreta.
+4. Evitar duplicación de código y reutilizar lógica cuando corresponda.
+5. Escribir comentarios solamente cuando aporten contexto útil que no sea evidente en el código.
+
 ## Puerta de calidad
 
 Cada push a `main` y cada Pull Request hacia `main` ejecuta las pruebas automáticamente mediante GitHub Actions. Si una prueba falla, el workflow falla.
