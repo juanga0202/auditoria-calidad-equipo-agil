@@ -69,4 +69,12 @@ Límites WIP:
 
 ## Equipo
 
+Cristian David Cotrino Vasquez
+
+Juan Gabriel Gutierrez 
+
+Juan Carlos Suarez Merchan 
+
+Johan Garcia
+
 Proyecto académico — Universidad Manuela Beltrán (UMB).
