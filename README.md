@@ -1,5 +1,10 @@
 # Auditoría de calidad de un equipo ágil
 
+Cristian David Cotrino Vasquez
+Juan Gabriel Gutierrez 
+Juan Carlos Suarez Merchan 
+Johan Garcia
+
 Proyecto académico para aplicar prácticas de calidad de software a un equipo ágil que desarrolla una aplicación de citas médicas.
 
 ## Objetivo
@@ -46,6 +51,9 @@ Cada push a `main` y cada Pull Request hacia `main` ejecuta las pruebas automát
 4. Revisión de código por otro integrante.
 5. Criterios de aceptación verificados.
 6. Documentación actualizada y entregable listo.
+
+Link de Trello: https://trello.com/b/1rh9kNbx/auditoria-de-calidad-app-de-citas-medicas
+
 
 ## Flujo Kanban
 
