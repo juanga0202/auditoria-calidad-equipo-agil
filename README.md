@@ -1,8 +1,11 @@
 # Auditoría de calidad de un equipo ágil
 
 Cristian David Cotrino Vasquez
+
 Juan Gabriel Gutierrez 
+
 Juan Carlos Suarez Merchan 
+
 Johan Garcia
 
 Proyecto académico para aplicar prácticas de calidad de software a un equipo ágil que desarrolla una aplicación de citas médicas.
